@@ -1,0 +1,12 @@
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.csprojAssemblyReference.cache
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.Form1.resources
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.Properties.Resources.resources
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.csproj.GenerateResource.cache
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.csproj.CoreCompileInputs.cache
+G:\C#\BookStoreCrud\BookStoreCrud\bin\Debug\BookStoreCrud.exe.config
+G:\C#\BookStoreCrud\BookStoreCrud\bin\Debug\BookStoreCrud.exe
+G:\C#\BookStoreCrud\BookStoreCrud\bin\Debug\BookStoreCrud.pdb
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.exe
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.pdb
+G:\C#\BookStoreCrud\BookStoreCrud\bin\Debug\MySql.Data.dll
+G:\C#\BookStoreCrud\BookStoreCrud\obj\Debug\BookStoreCrud.csproj.CopyComplete
